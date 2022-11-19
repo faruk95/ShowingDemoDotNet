@@ -1,0 +1,8 @@
+C:\Users\far\source\repos\Lambdaaa\Lambdaaa\bin\Debug\Lambdaaa.exe.config
+C:\Users\far\source\repos\Lambdaaa\Lambdaaa\bin\Debug\Lambdaaa.exe
+C:\Users\far\source\repos\Lambdaaa\Lambdaaa\bin\Debug\Lambdaaa.pdb
+C:\Users\far\source\repos\Lambdaaa\Lambdaaa\obj\Debug\Lambdaaa.csproj.AssemblyReference.cache
+C:\Users\far\source\repos\Lambdaaa\Lambdaaa\obj\Debug\Lambdaaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\far\source\repos\Lambdaaa\Lambdaaa\obj\Debug\Lambdaaa.csproj.CoreCompileInputs.cache
+C:\Users\far\source\repos\Lambdaaa\Lambdaaa\obj\Debug\Lambdaaa.exe
+C:\Users\far\source\repos\Lambdaaa\Lambdaaa\obj\Debug\Lambdaaa.pdb
